@@ -36,3 +36,4 @@
 ## Cтэк 
  - php
  - Bootstrap
+ - mysql
